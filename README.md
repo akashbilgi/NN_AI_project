@@ -1,5 +1,3 @@
-Certainly! Here's a sample README file for your GitHub repository:
-
 ```
 # CS205 AI Project [UCR] - Subject to copywrite
 
