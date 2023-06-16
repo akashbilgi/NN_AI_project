@@ -1,6 +1,6 @@
 # CS205 AI Project [UCR] - Subject to copywrite
 
-This repository contains the code for the CS236 AI project, which focuses on feature selection algorithms. The project is part of the CS236 course at [Your University Name].
+This repository contains the code for the CS236 AI project, which focuses on feature selection algorithms. The project is part of the CS236 course at University Of California, Riverside
 
 ## Team Members
 - Akash Bilgi
